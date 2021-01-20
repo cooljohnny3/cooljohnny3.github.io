@@ -13,12 +13,15 @@ main {
     margin: 0;
 }
 
-.article-title a {
-    color: white;
-}
-
 .project-article {
     border: 2px solid #ff4838;
     padding: 5px 10px;
-    max-width: 60%;
+    max-width: 70%;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .project-article {
+        max-width: 80%;
+    }
 }

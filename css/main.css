@@ -27,7 +27,8 @@ body {
 }
 
 main {
-    margin: 0px 25px;
+    margin: auto;
+    max-width: 80%;
 }
 
 a {

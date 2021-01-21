@@ -8,7 +8,7 @@ h1 {
 }
 
 figure {
-    max-width: 500px;
+    max-width: 450px;
     margin-left: 0px;
 }
 
@@ -19,14 +19,12 @@ img {
 .content {
     display: flex;
     flex-flow: column wrap;
-    max-width: 55%;
 }
 
 .section-title {
     margin-bottom: 0;
     font-size: 1.5rem;
 }
-
 
 li {
     padding-bottom: 5px;
@@ -38,7 +36,7 @@ li {
     }
 
     figure {
-        margin: 0px;
+        margin: 16px 0px 0px 0px;
     }
 
     .content {

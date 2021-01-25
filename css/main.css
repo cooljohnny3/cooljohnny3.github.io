@@ -42,6 +42,6 @@ a i:hover {
 @media only screen and (max-width: 500px) {
     body {
         text-align: center;
-
+        font-size: .9rem;
     }
 }

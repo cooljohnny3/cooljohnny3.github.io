@@ -20,6 +20,10 @@ main {
     margin-top: 10px;
 }
 
+a.icon {
+    text-decoration: none;
+ }
+
 @media only screen and (max-width: 600px) {
     .project-article {
         max-width: 100%;
